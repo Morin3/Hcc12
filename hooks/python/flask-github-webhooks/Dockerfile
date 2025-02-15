@@ -1,4 +1,4 @@
-FROM python:3.13.0b4
+FROM python:3.13.2
 LABEL version="1.0"
 LABEL description="Flask-based webhook receiver"
 
