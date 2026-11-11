@@ -35,7 +35,7 @@ GEM
     octokit (4.9.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     public_suffix (5.0.4)
-    rack (3.2.3)
+    rack (3.2.8)
     rack-protection (4.2.1)
       base64 (>= 0.1.0)
       logger (>= 1.6.0)
